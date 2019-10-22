@@ -1,3 +1,4 @@
+// confetti-js, from https://github.com/Agezao/confetti-js, MIT license
 function ConfettiGenerator(params) {
   //////////////
   // Defaults
