@@ -1,3 +1,3 @@
 # Feedbat Public Static Assets
 
-* URL Prefix: https://feedbat.com/static-assets/
+* URL Prefix: [static.feedbat.com](https://static.feedbat.com)
